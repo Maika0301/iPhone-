@@ -1,58 +1,7 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-  <meta charset="UTF-8">
-  <title>iPhoneの進化：1〜16</title>
-  <style>
-    body {
-      margin: 0;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-      background-color: #f5f5f7;
-      color: #1d1d1f;
-    }
-    header {
-      background-color: #ffffff;
-      text-align: center;
-      padding: 40px 20px;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-    }
-    header h1 {
-      font-size: 2.5em;
-      margin: 0;
-    }
-    .container {
-      max-width: 960px;
-      margin: 40px auto;
-      padding: 0 20px;
-    }
-    .iphone {
-      background: white;
-      margin-bottom: 40px;
-      padding: 20px;
-      border-radius: 16px;
-      box-shadow: 0 2px 10px rgba(0,0,0,0.05);
-    }
-    .iphone h2 {
-      font-size: 1.5em;
-      margin-bottom: 10px;
-      color: #0071e3;
-    }
-    .iphone p {
-      font-size: 1.05em;
-      line-height: 1.6;
-    }
-    footer {
-      text-align: center;
-      padding: 20px;
-      background-color: #ffffff;
-      font-size: 0.9em;
-      color: #888;
-      margin-top: 80px;
-    }
-  </style>
-</head>
-<body>
-
+  <meta charset="UTF-8">>>
 <header>
   <h1>iPhoneの進化（初代〜16世代）</h1>
 </header>
